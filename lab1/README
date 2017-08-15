@@ -1,0 +1,17 @@
+NYU ID: N19865544
+NETID: yal244
+NAME: YING-AN LAI
+DATE: 2017/2/19
+
+---- HOW TO COMPILE----
+Open a Terminal window and change into the "lab1" directory.
+Simply use the following command
+
+> make
+
+to compile, an executable file will be generated with name "linker".
+
+-- HOW TO RUN --
+Use the following command
+
+> ./linker <path_to_input_file>
